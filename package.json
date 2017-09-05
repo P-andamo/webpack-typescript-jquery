@@ -1,0 +1,11 @@
+{
+  "name": "typescript_playground",
+  "version": "1.0.0",
+  "description": "TypeScript Playground",
+  "author": "R. Appleton",
+  "devDependencies": {
+    "@types/jquery": "^2.0.47",
+    "jquery": "^3.2.1",
+    "ts-loader": "^2.3.4"
+  }
+}
